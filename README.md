@@ -18,7 +18,7 @@ Scroll ke bawah dan cari tombol 'download'
 
 <img src="images/Annotation 2020-01-04 110717.png" width="666" height="297">
 
-**Jangan lupa di Firebase Console anda buat dulu Realtime Database & Firebase Storage nya (lihat di sidebar sebelah kiri)**
+**Jangan lupa di Firebase Console anda buat Realtime Database & Firebase Storage nya (lihat di sidebar sebelah kiri). Tinggal klik-klik dan ikuti prosedurnya**
 
 ### Kalau bingung?
 
