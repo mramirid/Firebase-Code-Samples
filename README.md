@@ -10,7 +10,7 @@ Buka aja folder PART-*keberapa* di Android Studio. Setiap PART mengikuti PART-PA
 
 :warning: **Kalau anda ingin run kodingan di repo ini**: Pasang dulu file google-service.json ke dalam folder app/
 
-File google-service.json bisa anda dapatkan di Firebase Console
+File google-service.json bisa anda dapatkan di Firebase Console anda
 
 Project Overview -> Project Settings
 
@@ -20,7 +20,7 @@ Scroll ke bawah dan cari tombol 'download'
 
 <img src="images/Annotation 2020-01-04 110717.png" width="666" height="297">
 
-**Jangan lupa di Firebase Console anda buat dulu Realtime Database & Firebase Storage nya (lihat di sidebar sebelah kiri)**
+> **Jangan lupa di Firebase Console anda buat dulu Realtime Database & Firebase Storage nya (lihat di sidebar sebelah kiri)**
 
 ### Kalau bingung?
 
