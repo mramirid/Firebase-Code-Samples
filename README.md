@@ -22,4 +22,4 @@ Scroll ke bawah dan cari tombol 'download'
 
 ### Kalau bingung?
 
-Tanyakan aja ke saya 😂 lewat WA (kalau punya) / lewat Email (tertera di profile). In syaa' Allah saya bantu semampu saya 😁
+Tanyakan aja ke saya 😂 lewat WA (kalau punya) / lewat Email (tertera di profile). In syaa' Allah saya bantu semampu saya
