@@ -1,4 +1,4 @@
-## Firebase Code Samples
+## Firebase Code Samples (On Progress)
 
 Ditulis menggunakan Kotlin. Isinya contoh kodingan untuk mengintegrasikan App Android dengan fitur yang ada di Firebase (Firebase Storage & Firestore).
 
@@ -8,7 +8,7 @@ Saya dapatkan dari playlist video turtorial Firebase Coding In Flow di YouTube, 
 
 Buka aja folder PART-*keberapa* di Android Studio. Setiap PART mengikuti PART-PART video turtorial dari channel Coding In Flow: [Firebase Turtorials - Android Programming](https://www.youtube.com/watch?v=JVokoelQ1RI&list=PLrnPJCHvNZuBf5KH4XXOthtgo6E4Epjl8).
 
-:warning: **Kalau anda ingin run kodingan di repo ini**: Pasang dulu file google-service.json ke dalam folder app/ di project. File google-service.json bisa anda dapatkan di Firebase Console anda, stepnya seperti berikut:
+:warning: **Kalau anda ingin run kodingan di repo ini**: Saya asumsikan anda sudah create project di Firebase Console dengan mengikuti step-step video turtorial 1 - 2. Pasang dulu file google-service.json ke dalam folder app/ di project. File google-service.json bisa anda dapatkan di Firebase Console anda, stepnya seperti berikut:
 
 Buka Project Overview -> Project Settings
 
