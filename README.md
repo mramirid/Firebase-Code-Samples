@@ -2,7 +2,7 @@
 
 Ditulis menggunakan Kotlin. Isinya contoh kodingan untuk mengintegrasikan App Android dengan fitur yang ada di Firebase (Firebase Storage & Firestore).
 
-Saya dapatkan dari playlist video turtorial Firebase Coding In Flow di YouTube, namun saya konversikan ke dalam Kotlin. Kecuali untuk FirebaseCloudMessaging saya dapatkan dari modul FCM di kelas MADE, Dicoding
+Saya dapatkan dari playlist video turtorial Firebase Coding In Flow di YouTube, namun saya konversikan ke dalam Kotlin. Kecuali untuk Firebase Cloud Messaging saya dapatkan dari modul FCM di kelas MADE, Dicoding
 
 ### Cara membuka di Android Studio
 
