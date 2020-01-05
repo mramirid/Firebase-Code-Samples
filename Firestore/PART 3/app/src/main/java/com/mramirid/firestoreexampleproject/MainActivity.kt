@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             KEY_DESCRIPTION to description
         )
 
-        // Menulis ke firestore
+        // Menulis ke firestore, set akan mereplace seluruh isi dokumen
         database.collection("Notebook").document("My First Note").set(note)
             .addOnSuccessListener {
                 Toast.makeText(this@MainActivity, "Note saved", Toast.LENGTH_SHORT).show()
