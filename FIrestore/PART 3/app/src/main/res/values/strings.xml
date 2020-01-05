@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Firestore Example Project</string>
-    <string name="title">Title</string>
-    <string name="description">Description</string>
-    <string name="save">Save</string>
-    <string name="load">Load</string>
-    <string name="loadResult">Title: %s\nDescription: %s</string>
-</resources>

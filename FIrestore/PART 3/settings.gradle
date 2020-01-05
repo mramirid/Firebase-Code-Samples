@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='Firestore Example Project'
