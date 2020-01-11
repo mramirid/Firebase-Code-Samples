@@ -28,6 +28,7 @@ Setelah terdownload masukan file google-service.json ke dalam folder app/ di pro
 | --- | --- |
 | Firebase Storage | Realtime Database & Firebase Storage |
 | Firestore | Cloud Firestore |
+| FirebaseUI Firestore | Cloud Firestore |
 
 \*tips menyiapkan: di Firebase Console lihat di sidebar sebelah kiri. Tinggal klik-klik dan ikuti prosedurnya.
 
