@@ -17,6 +17,7 @@ class NewNoteActivity : AppCompatActivity() {
         supportActionBar?.setHomeAsUpIndicator(R.drawable.ic_close) // Mengganti tanda <- menjadi x
         title = "Add Note"
 
+	// Set rentang dari number picker 1-10
         number_picker_priority.minValue = 1
         number_picker_priority.maxValue = 10
     }
