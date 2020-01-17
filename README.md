@@ -1,3 +1,5 @@
+<p align="center"> <img width="400" height="180" class='header-img' src='images/android-firebase.png' /> </p>
+
 ## Firebase Code Samples
 
 Ditulis menggunakan Kotlin. Isinya contoh kodingan untuk mengintegrasikan App Android dengan fitur yang ada di Firebase (Firebase Storage & Firestore).
