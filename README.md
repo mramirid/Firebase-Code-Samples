@@ -1,4 +1,4 @@
-## Firebase Code Samples (On Progress)
+## Firebase Code Samples
 
 Ditulis menggunakan Kotlin. Isinya contoh kodingan untuk mengintegrasikan App Android dengan fitur yang ada di Firebase (Firebase Storage & Firestore).
 
