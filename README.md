@@ -1,4 +1,4 @@
-<p align="center"> <img width="400" height="180" class='header-img' src='images/android-firebase.png' /> </p>
+<p align="center"> <img class='header-img' src='images/android-firebase.png' /> </p>
 
 ## Firebase Code Samples
 
